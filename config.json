@@ -3,7 +3,7 @@
   "output": "./static_site",
   "title": "Noahgraphy",
   "sort-albums-by": "start-date",
-  "sort-media-by": "filename",
+  "sort-media-by": "date",
   "download-photos": "copy",
   "cleanup": true,
   "theme": "cards",
